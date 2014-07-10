@@ -1,7 +1,7 @@
 {
   "name": "copy-filename",
   "main": "lib/copy-filename",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Add a copy filename option to the tree view and a command to copy filename of opened file",
   "license": "MIT",
   "private": true,
