@@ -1,4 +1,4 @@
-# EditorConfig
+# Copy filename
 
 [Atom package](https://atom.io/packages/copy-filename)
 
