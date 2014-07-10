@@ -1,7 +1,7 @@
 {
   "name": "copy-filename",
   "main": "lib/copy-filename",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Atom - Copy the filename of the open file, add a copy filename option to the file tree",
   "license": "MIT",
   "private": true,
