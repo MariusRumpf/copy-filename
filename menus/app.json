@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Copy Filename",
+          "submenu": [
+            {
+              "label": "Copy filename of open file",
+              "command": "copy-filename:copy-open-file-filename"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

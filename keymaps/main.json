@@ -1,0 +1,5 @@
+{
+  ".workspace": {
+    "ctrl-shift-alt-f": "copy-filename:copy-open-file-filename"
+  }
+}

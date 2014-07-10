@@ -1,0 +1,29 @@
+{
+  "name": "copy-filename",
+  "main": "lib/copy-filename",
+  "version": "0.1.0",
+  "description": "Atom - Copy the filename of the open file, add a copy filename option to the file tree",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariusrumpf/copy-filename.git"
+  },
+  "homepage": "https://github.com/mariusrumpf/copy-filename",
+  "bugs": {
+    "url": "https://github.com/mariusrumpf/copy-filename/issues"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-apm": "0.0.1"
+  }
+}
