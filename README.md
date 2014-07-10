@@ -4,9 +4,9 @@
 
 > Add a copy filename option to the tree view and a command to copy filename of opened file
 
-![Screenshot](bundels/screenshot.png)  
+![Screenshot](https://cloud.githubusercontent.com/assets/2364426/3539798/83a1a898-083d-11e4-9af7-c04e2a61289e.png)
 
-![Screenshot 2](bundels/screenshot2.png)
+![Screenshot 2](https://cloud.githubusercontent.com/assets/2364426/3539810/9a61c0a4-083d-11e4-9bcf-ebbed164d541.png)
 
 ## Install
 ```bash
