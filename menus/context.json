@@ -1,7 +1,10 @@
 {
   "context-menu": {
-    ".tree-view": {
-      "Copy Filename": "copy-filename:copy-tree-view-filename"
+    ".tree-view .file": {
+      "Copy filename": "copy-filename:copy-tree-view-name"
+    },
+    ".tree-view .header.list-item": {
+      "Copy name": "copy-filename:copy-tree-view-name"
     }
   }
 }
