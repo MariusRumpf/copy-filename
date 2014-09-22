@@ -3,7 +3,7 @@ module.exports = function() {
   this.initConfig({
     jshint: {
       options: {
-        node: true
+        jshintrc: true
       },
       grunt: {
         src: ['Gruntfile.js']
