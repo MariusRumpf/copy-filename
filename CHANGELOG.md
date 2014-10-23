@@ -1,3 +1,7 @@
+# 0.4.0 (Okt 23 2014)
+
+* fix module not found error
+
 # 0.3.1 (Okt 18 2014)
 
 * code cleanup
