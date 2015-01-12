@@ -1,4 +1,14 @@
 {
+  "context-menu": {
+    ".tree-view .file": [{
+      "label": "Copy filename",
+      "command": "copy-filename:copy-tree-view-name"
+    }],
+    ".tree-view .header.list-item": [{
+      "label": "Copy name",
+      "command": "copy-filename:copy-tree-view-name"
+    }]
+  },
   "menu": [
     {
       "label": "Packages",
