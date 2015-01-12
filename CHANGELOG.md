@@ -1,3 +1,7 @@
+# 0.5.0 (Jan 12 2015)
+
+* update deprecated methods
+
 # 0.4.0 (Okt 23 2014)
 
 * fix module not found error
