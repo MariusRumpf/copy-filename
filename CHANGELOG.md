@@ -1,3 +1,7 @@
+# 0.5.1
+
+* ES6 rewrite
+
 # 0.5.0 (Jan 12 2015)
 
 * update deprecated methods

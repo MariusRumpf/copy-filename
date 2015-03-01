@@ -13,17 +13,6 @@ module.exports = function() {
         src: ['lib/**/*.js']
       }
     },
-    jscs: {
-      options: {
-        config: '.jscsrc'
-      },
-      grunt: {
-        src: ['Gruntfile.js']
-      },
-      lib: {
-        src: ['lib/**/*.js']
-      }
-    },
     watch: {
       options: {
         interrupt: true
@@ -39,10 +28,9 @@ module.exports = function() {
     }
   });
   this.loadNpmTasks('grunt-contrib-jshint');
-  this.loadNpmTasks('grunt-jscs');
   this.loadNpmTasks('grunt-apm');
   this.loadNpmTasks('grunt-contrib-watch');
-  this.registerTask('lint', ['jshint', 'jscs']);
+  this.registerTask('lint', ['jshint']);
   this.registerTask('link', ['apm-link']);
   this.registerTask('unlink', ['apm-unlink']);
   this.registerTask('test', ['apm-test']);
