@@ -14,7 +14,7 @@
     "url": "https://github.com/mariusrumpf/copy-filename/issues"
   },
   "engines": {
-    "atom": ">=0.183.0"
+    "atom": ">=0.183.0 <2.0.0"
   },
   "scripts": {
     "test": "grunt"
