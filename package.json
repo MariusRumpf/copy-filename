@@ -24,12 +24,10 @@
     "atom": ">=0.183.0 <2.0.0"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "npm run lint",
+    "lint": "eslint ."
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-apm": "0.0.1",
-    "grunt-contrib-jshint": "^0.11.0",
-    "grunt-contrib-watch": "^0.6.1"
+    "eslint": "^0.21.2"
   }
 }

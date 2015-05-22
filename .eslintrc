@@ -1,0 +1,17 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "ecmaFeatures": {
+    "modules": true
+  },
+  "globals": {
+    "atom": false
+  },
+  "rules": {
+    "quotes": [2, "single", "avoid-escape"],
+    "indent": [2, 2],
+    "strict": [2, "never"]
+  }
+}

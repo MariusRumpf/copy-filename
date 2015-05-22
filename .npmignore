@@ -1,3 +1,2 @@
 .editorconfig
-.jshintrc
-Gruntfile.js
+.eslintrc
