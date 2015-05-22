@@ -1,14 +1,4 @@
 {
-  "context-menu": {
-    ".tree-view .file": [{
-      "label": "Copy filename",
-      "command": "copy-filename:copy-tree-view-name"
-    }],
-    ".tree-view .header.list-item": [{
-      "label": "Copy name",
-      "command": "copy-filename:copy-tree-view-name"
-    }]
-  },
   "menu": [
     {
       "label": "Packages",
@@ -24,5 +14,31 @@
         }
       ]
     }
-  ]
+  ],
+  "context-menu": {
+    ".tree-view.full-menu .file": [
+      {
+        "label": "Copy filename",
+        "command": "copy-filename:copy-tree-view-name"
+      },
+      {
+        "type": "separator"
+      }
+    ],
+    ".tree-view.full-menu .header.list-item": [
+      {
+        "label": "Copy name",
+        "command": "copy-filename:copy-tree-view-name"
+      },
+      {
+        "type": "separator"
+      }
+    ],
+    "atom-pane[data-active-item-path] .item-views": [
+      {
+        "label": "Copy filename",
+        "command": "copy-filename:copy-open-file-filename"
+      }
+    ]
+  }
 }
