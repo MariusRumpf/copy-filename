@@ -1,3 +1,7 @@
+# 1.0.1 (Mai 22 2015)
+
+* Update descriptions
+
 # 1.0.0 (Mai 22 2015)
 
 * ES6 rewrite
