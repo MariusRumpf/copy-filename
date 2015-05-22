@@ -1,6 +1,12 @@
-# 0.5.1
+# 1.0.0 (Mai 22 2015)
 
 * ES6 rewrite
+* Atom 1.0 compatibility
+* Right click in editor now contains an option to copy the filename
+
+#### Known issues
+
+* [sublime-tabs](https://atom.io/packages/sublime-tabs) package has not been updated for atom 1.0 and is incompatible
 
 # 0.5.0 (Jan 12 2015)
 
