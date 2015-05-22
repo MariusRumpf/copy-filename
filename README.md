@@ -2,7 +2,7 @@
 
 > Add a copy name option to the tree view and a command to copy filename of current file
 
-![Demo Animation](https://cloud.githubusercontent.com/assets/2364426/3550119/8317320c-08d4-11e4-8590-85d68917c1f1.gif)
+![Demo Animation](https://cloud.githubusercontent.com/assets/2364426/7766926/838267ce-006e-11e5-83bc-2c7df47fb361.gif)
 
 ![Screenshot 2](https://cloud.githubusercontent.com/assets/2364426/3539810/9a61c0a4-083d-11e4-9bcf-ebbed164d541.png)
 
