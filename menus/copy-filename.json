@@ -16,7 +16,7 @@
     }
   ],
   "context-menu": {
-    ".tree-view.full-menu .file": [
+    ".tool-panel.tree-view .file": [
       {
         "label": "Copy filename",
         "command": "copy-filename:copy-tree-view-name"
@@ -25,7 +25,7 @@
         "type": "separator"
       }
     ],
-    ".tree-view.full-menu .header.list-item": [
+    ".tool-panel.tree-view .header.list-item": [
       {
         "label": "Copy name",
         "command": "copy-filename:copy-tree-view-name"

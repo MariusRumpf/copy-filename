@@ -1,3 +1,7 @@
+# 1.1.0 (Mai 17 2017)
+
+* Fix for atom version 1.17.0 and above
+
 # 1.0.1 (Mai 22 2015)
 
 * Update descriptions
