@@ -1,7 +1,7 @@
 {
   "name": "copy-filename",
   "main": "lib/copy-filename",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Add a copy name option to the tree view and a command to copy filename of current file",
   "keywords": [
     "copy",
