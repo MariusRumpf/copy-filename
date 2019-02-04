@@ -21,13 +21,13 @@
     "url": "https://github.com/mariusrumpf/copy-filename/issues"
   },
   "engines": {
-    "atom": ">=1.17.0 <2.0.0"
+    "atom": ">=1.34.0 <2.0.0"
   },
   "scripts": {
     "test": "npm run lint",
     "lint": "eslint ."
   },
   "devDependencies": {
-    "eslint": "^0.21.2"
+    "eslint": "^5.13.0"
   }
 }

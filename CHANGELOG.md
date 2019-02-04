@@ -1,3 +1,7 @@
+# 1.2.0 (Feb 04 2019)
+
+* Fix for atom version 1.34.0 and above
+
 # 1.1.0 (Mai 17 2017)
 
 * Fix for atom version 1.17.0 and above
